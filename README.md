@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil **[@gs.xs7](https://www.instagram.com/gs.xs7/)**.
+Me chamo Gustavo Leal, sou Belo Horizonte - MG. Concluí o ensino médio no SESI, com o curso técnico em robotica e estudei programação na RocketSeat. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil **[@gs.xs7](https://www.instagram.com/gs.xs7/)**.
 
 <p align="left">
     <a href="https://www.instagram.com/gs.xs7/">
