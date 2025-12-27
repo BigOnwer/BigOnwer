@@ -12,20 +12,6 @@ Me chamo Gustavo Leal, sou Belo Horizonte - MG. Concluí o ensino médio no SESI
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
