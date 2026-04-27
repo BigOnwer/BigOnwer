@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Gustavo Leal, sou Belo Horizonte - MG. Concluí o ensino médio no SESI, com o curso técnico em robotica e estudei programação na RocketSeat. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil **[@wpixel.forge](https://www.instagram.com/wpixel.forge/)**.
+Me chamo Gustavo Leal, sou de Ibirité - MG. Estudo o ensino médio no SESI, com o curso técnico em robotica e estudei programação na RocketSeat. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil **[@wpixel.forge](https://www.instagram.com/wpixel.forge/)**.
 
 <p align="left">
     <a href="https://www.instagram.com/gs.xs7/">
@@ -50,7 +50,7 @@ Me chamo Gustavo Leal, sou Belo Horizonte - MG. Concluí o ensino médio no SESI
  align="left"
  alt="GitHub Top Langs"
  height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiigOnwer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigOnwer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
 </p>
