@@ -28,6 +28,7 @@ Me chamo Gustavo Leal, sou Belo Horizonte - MG. Concluí o ensino médio no SESI
 <img align="left" alt="Prisma" title="Prisma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MySQL" title="Python" width="30px" style="padding-right: 10px;" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" />
 
 <br/>
 <br/>
